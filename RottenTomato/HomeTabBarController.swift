@@ -12,6 +12,10 @@ class HomeTabBarController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        UITabBar.appearance().tintColor = UIColor.whiteColor()
+        
+        // Sets the default color of the background of the UITabBar
+        UITabBar.appearance().barTintColor = ColorUtils.UIColorFromRGB("F77A74")
 
         // Do any additional setup after loading the view.
     }
