@@ -14,3 +14,4 @@ Completed:
 [] For the large poster, load the low-res image first, switch to high-res when complete 
 
 Gif Demo:
+![Alt text](https://github.com/giaotuancse/tipscalculator/blob/master/demo.gif "Optional title")
