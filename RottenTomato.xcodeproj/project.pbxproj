@@ -8,8 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		712D7D281BF4703F0035E083 /* HomeTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 712D7D271BF4703E0035E083 /* HomeTabBarController.swift */; };
-		712D7D2B1BF4922C0035E083 /* ic_movie.png in Resources */ = {isa = PBXBuildFile; fileRef = 712D7D2A1BF4922B0035E083 /* ic_movie.png */; };
-		712D7D2D1BF493500035E083 /* ic_movie_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 712D7D2C1BF493500035E083 /* ic_movie_2.png */; };
 		71366C461BF586FC009109A6 /* Reach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71366C451BF586FC009109A6 /* Reach.swift */; };
 		716007441BF2E3F8001E59A5 /* MovieItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716007431BF2E3F7001E59A5 /* MovieItemCell.swift */; };
 		716007461BF2F1E2001E59A5 /* Pods_RottenTomato.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 716007451BF2F1E2001E59A5 /* Pods_RottenTomato.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
@@ -18,7 +16,6 @@
 		7163BD8B1BF18D5C00CBB336 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7163BD8A1BF18D5C00CBB336 /* Assets.xcassets */; };
 		7163BD8E1BF18D5C00CBB336 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7163BD8C1BF18D5C00CBB336 /* LaunchScreen.storyboard */; };
 		7163BD991BF18DAF00CBB336 /* MovieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7163BD981BF18DAF00CBB336 /* MovieViewController.swift */; };
-		716F89EF1BF627FD00A60F91 /* ic_cd.png in Resources */ = {isa = PBXBuildFile; fileRef = 716F89EE1BF627FD00A60F91 /* ic_cd.png */; };
 		716F89F11BF62FD600A60F91 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716F89F01BF62FD600A60F91 /* DetailViewController.swift */; };
 		71B01FFB1BF5E3880063C144 /* ColorUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B01FFA1BF5E3880063C144 /* ColorUtils.swift */; };
 /* End PBXBuildFile section */
@@ -27,8 +24,6 @@
 		411E39209458B0CC8DB53382 /* Pods-RottenTomato.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RottenTomato.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RottenTomato/Pods-RottenTomato.debug.xcconfig"; sourceTree = "<group>"; };
 		4A1B4E1FF3E3383371406FB1 /* Pods_RottenTomato.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RottenTomato.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		712D7D271BF4703E0035E083 /* HomeTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeTabBarController.swift; sourceTree = "<group>"; };
-		712D7D2A1BF4922B0035E083 /* ic_movie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_movie.png; path = ../../../../../Downloads/ic_movie.png; sourceTree = "<group>"; };
-		712D7D2C1BF493500035E083 /* ic_movie_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_movie_2.png; path = ../../../../../Downloads/ic_movie_2.png; sourceTree = "<group>"; };
 		71366C451BF586FC009109A6 /* Reach.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reach.swift; sourceTree = "<group>"; };
 		716007431BF2E3F7001E59A5 /* MovieItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieItemCell.swift; sourceTree = "<group>"; };
 		716007451BF2F1E2001E59A5 /* Pods_RottenTomato.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Pods_RottenTomato.framework; path = "Pods/../build/Debug-iphoneos/Pods_RottenTomato.framework"; sourceTree = "<group>"; };
@@ -40,7 +35,6 @@
 		7163BD8D1BF18D5C00CBB336 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7163BD8F1BF18D5C00CBB336 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7163BD981BF18DAF00CBB336 /* MovieViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieViewController.swift; sourceTree = "<group>"; };
-		716F89EE1BF627FD00A60F91 /* ic_cd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_cd.png; sourceTree = "<group>"; };
 		716F89F01BF62FD600A60F91 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		71B01FFA1BF5E3880063C144 /* ColorUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorUtils.swift; sourceTree = "<group>"; };
 		872AB97C1036979ADA251221 /* Pods-RottenTomato.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RottenTomato.release.xcconfig"; path = "Pods/Target Support Files/Pods-RottenTomato/Pods-RottenTomato.release.xcconfig"; sourceTree = "<group>"; };
@@ -70,9 +64,6 @@
 		712D7D291BF491E40035E083 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				716F89EE1BF627FD00A60F91 /* ic_cd.png */,
-				712D7D2C1BF493500035E083 /* ic_movie_2.png */,
-				712D7D2A1BF4922B0035E083 /* ic_movie.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -114,6 +105,7 @@
 				7163BD831BF18D5C00CBB336 /* AppDelegate.swift */,
 				7163BD871BF18D5C00CBB336 /* Main.storyboard */,
 				7163BD8A1BF18D5C00CBB336 /* Assets.xcassets */,
+				716801CD1BFC153B004BBD9F /* New Group */,
 				7163BD8C1BF18D5C00CBB336 /* LaunchScreen.storyboard */,
 				7163BD8F1BF18D5C00CBB336 /* Info.plist */,
 				716007431BF2E3F7001E59A5 /* MovieItemCell.swift */,
@@ -129,6 +121,13 @@
 				716F89F01BF62FD600A60F91 /* DetailViewController.swift */,
 			);
 			name = ViewControler;
+			sourceTree = "<group>";
+		};
+		716801CD1BFC153B004BBD9F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 		D433B002B3D74BFCC85C9B77 /* Pods */ = {
@@ -202,10 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7163BD8E1BF18D5C00CBB336 /* LaunchScreen.storyboard in Resources */,
-				712D7D2D1BF493500035E083 /* ic_movie_2.png in Resources */,
-				716F89EF1BF627FD00A60F91 /* ic_cd.png in Resources */,
 				7163BD8B1BF18D5C00CBB336 /* Assets.xcassets in Resources */,
-				712D7D2B1BF4922C0035E083 /* ic_movie.png in Resources */,
 				7163BD891BF18D5C00CBB336 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

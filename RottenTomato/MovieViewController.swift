@@ -214,7 +214,7 @@ class MovieViewController: UIViewController, UITableViewDataSource, UITableViewD
             searchActive = false;
             
         } else {
-              searchActive = true;
+            searchActive = true;
         }
         print("searchBarTextDidBeginEditing - true")
       

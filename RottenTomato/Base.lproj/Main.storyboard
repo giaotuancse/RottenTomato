@@ -113,7 +113,7 @@
         <scene sceneID="Uw7-vs-srT">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="cnw-XQ-5VM" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Films" image="ic_movie_2.png" selectedImage="ic_movie_2.png" id="SV6-Vz-qCT">
+                    <tabBarItem key="tabBarItem" title="Films" image="ic_movie_2" selectedImage="ic_movie_2" id="SV6-Vz-qCT">
                         <inset key="imageInsets" minX="1" minY="1" maxX="1" maxY="1"/>
                     </tabBarItem>
                     <toolbarItems/>
@@ -221,7 +221,7 @@
         <scene sceneID="lqL-U7-Men">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="KN3-Aj-xSS" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="DVDs" image="ic_cd.png" selectedImage="ic_cd.png" id="dGG-6Y-1Ox">
+                    <tabBarItem key="tabBarItem" title="DVDs" image="ic_cd" selectedImage="ic_cd" id="dGG-6Y-1Ox">
                         <inset key="imageInsets" minX="1" minY="1" maxX="1" maxY="1"/>
                     </tabBarItem>
                     <toolbarItems/>
@@ -240,8 +240,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="ic_cd.png" width="32" height="32"/>
-        <image name="ic_movie_2.png" width="32" height="32"/>
+        <image name="ic_cd" width="32" height="32"/>
+        <image name="ic_movie_2" width="32" height="32"/>
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="NgW-mr-PG0"/>
